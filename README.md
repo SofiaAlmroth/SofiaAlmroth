@@ -24,8 +24,12 @@
 - French (Intermediate)
 
 ## Featured Projects
-- [Logistic App](https://github.com/SofiaAlmroth/logistic_app_FE): A logistics management system for tracking sales, orders, and inventory. Built with React and Tailwind CSS.
-- [Library System](https://github.com/SofiaAlmroth/library_system_FE): A web app for managing library items, with features for borrowing and returning books. Built with React, Node.js, and Prisma.
+- [Logistic App Frontend](https://github.com/SofiaAlmroth/logistic_app_FE) | [Logistic App Backend](https://github.com/SofiaAlmroth/logistic_app_BE): A logistics management system for tracking sales, orders, and inventory. Built with React, TypeScript, and Tailwind CSS on the frontend, and Node.js with Prisma and PostgreSQL on the backend.
+  
+- [Library System Frontend](https://github.com/SofiaAlmroth/library_system_FE) | [Library System Backend](https://github.com/SofiaAlmroth/library_system_BE): A web app for managing library items with features for borrowing and returning books. Built with React, TypeScript, and Tailwind CSS on the frontend, and Node.js with PostgreSQL and Prisma on the backend.
+
+- [Work Wave Frontend](https://github.com/SofiaAlmroth/work_wave): A productivity tool for managing tasks and workflows, designed for team collaboration and task tracking. Built with React and TypeScript.
+
 
 ## Learning Roadmap
 - Deepening my knowledge of **Next.js** to build dynamic, server-rendered web applications.
