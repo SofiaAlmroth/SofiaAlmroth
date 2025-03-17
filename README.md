@@ -8,16 +8,18 @@
 ## Skills💻 
 ### Programming Languages
 - HTML, CSS, JavaScript, TypeScript
-- Frameworks & Libraries
-- React, Redux, Node.js, Express
+
+### Frameworks & Libraries
+- React, Next.js, Node.js, Express
 - Tailwind CSS, DaisyUI, Bootstrap
+  
 ### Tools & Platforms
-- Git, JIRA, Scrum, Vercel, Render, Postgres (Cloud)
+- Git, JIRA, Scrum, Vercel, Render, PostgreSQL
+  
 ### Design & Content Management
 - Adobe Creative Suite (InDesign, Photoshop, Illustrator)
-- EPiServer (Content Management System)
-### Digital Marketing Tools
-- Facebook Business Manager, Google Analytics, Google Ads
+- Figma
+ 
 ### Languages
 - Swedish (Fluent)
 - English (Fluent)
