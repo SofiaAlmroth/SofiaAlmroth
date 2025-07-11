@@ -3,6 +3,7 @@ I'm passionate about building creative and user-friendly web applications that b
 
 ## Currently learning
 Next.js – for dynamic, server-rendered applications
+
 GSAP – to craft smooth, engaging animations
 
 ## Open to collaboration on
