@@ -1,15 +1,15 @@
-👋 Hi, I’m Sofia Almroth
+Hi, I’m Sofia Almroth
 I'm passionate about building creative and user-friendly web applications that balance functionality, aesthetics, and usability.
 
-🌱 Currently learning
+Currently learning
 Next.js – for dynamic, server-rendered applications
 
 GSAP – to craft smooth, engaging animations
 
-🤝 Open to collaboration on
+Open to collaboration on
 Exciting web projects that push boundaries and prioritize great user experiences.
 
-💼 Skills
+Skills
 Programming Languages
 HTML • CSS • JavaScript • TypeScript
 
@@ -27,22 +27,22 @@ Figma • Adobe Creative Suite (InDesign, Photoshop, Illustrator)
 Languages
 Swedish (Fluent) • English (Fluent) • French (Intermediate)
 
-🌟 Featured Projects
-📦 Logistic App
+Featured Projects
+Logistic App
 Inventory and order management system
 Frontend: React, TypeScript, Tailwind CSS
 Backend: Node.js, Prisma, PostgreSQL
 
-📚 Library System
+Library System
 Manage loans, returns, and catalog
 Frontend: React, TypeScript, Tailwind CSS
 Backend: Node.js, Prisma, PostgreSQL
 
-🧠 Work Wave
+Work Wave
 Team productivity tool for task management
 Frontend: React, TypeScript
 
-🔭 Learning Roadmap
+Learning Roadmap
 Deepening my Next.js knowledge
 
 Exploring advanced animations with GSAP
