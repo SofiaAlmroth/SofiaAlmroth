@@ -42,7 +42,7 @@ Backend: Node.js, Prisma, PostgreSQL
 - [Frontend repo](https://github.com/SofiaAlmroth/library_system_FE)
 - [Backend repo](https://github.com/SofiaAlmroth/library_system_BE)
 
-### [Work Wave](https://github.com/SofiaAlmroth/workwave)
+### [Work Wave](https://github.com/SofiaAlmroth/work_wave) 
 Team productivity tool for task management  
 Frontend: React, TypeScript
 
