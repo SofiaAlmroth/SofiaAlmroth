@@ -28,7 +28,7 @@ Figma • Adobe Creative Suite (InDesign, Photoshop, Illustrator)
 Swedish (Fluent) • English (Fluent) • French (Intermediate)
 
 ## Featured Projects
-### [Logistic App](https://github.com/SofiaAlmroth/logistic_app)
+### [Logistic App](https://github.com/SofiaAlmroth/logistic_app_FE)
 Inventory and order management system
 Frontend: React, TypeScript, Tailwind CSS
 Backend: Node.js, Prisma, PostgreSQL
