@@ -27,18 +27,22 @@ Figma • Adobe Creative Suite (InDesign, Photoshop, Illustrator)
 Swedish (Fluent) • English (Fluent) • French (Intermediate)
 
 ## Featured Projects
-### Logistic App
+### [Logistic App](https://github.com/SofiaAlmroth/logistic_app)
 Inventory and order management system
 Frontend: React, TypeScript, Tailwind CSS
 Backend: Node.js, Prisma, PostgreSQL
 
-### Library System
+### [Library System](https://github.com/SofiaAlmroth/library_system_FE)
 Manage loans, returns, and catalog
 Frontend: React, TypeScript, Tailwind CSS
 Backend: Node.js, Prisma, PostgreSQL
 
-### Work Wave
-Team productivity tool for task management
+- [Frontend live demo](https://library-system-fe.onrender.com)
+- [Frontend repo](https://github.com/SofiaAlmroth/library_system_FE)
+- [Backend repo](https://github.com/SofiaAlmroth/library_system_BE)
+
+### [Work Wave](https://github.com/SofiaAlmroth/workwave)
+Team productivity tool for task management  
 Frontend: React, TypeScript
 
 ## Learning Roadmap
